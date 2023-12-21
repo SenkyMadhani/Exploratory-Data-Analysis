@@ -34,4 +34,4 @@
 
 ## Conclusion:
 
-## Provides a concluding statement based on the analysis performed on the dataset.
+### Women between the ages of 26 and 35 who are married and employed in the IT, healthcare, or aviation industries in Uttar Pradesh, Maharashtra, and Karnataka show a higher inclination towards purchasing items falling under the food, clothing, and electronics categories.
