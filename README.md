@@ -27,10 +27,10 @@
 
 ### Describes the dataset statistically (count, mean, std, min, max, etc.).
 ### Creates various bar plots and count plots using Seaborn and Matplotlib for:
----  ### Gender analysis in sales data.
----  ### Analysis by age group and gender.
----  ### Sales by state, occupation, product category, and product ID.
----  ### Top 5 most sold products.
+---   Gender analysis in sales data.
+---   Analysis by age group and gender.
+---   Sales by state, occupation, product category, and product ID.
+---   Top 5 most sold products.
 
 ## Conclusion:
 
