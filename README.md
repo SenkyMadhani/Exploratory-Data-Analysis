@@ -27,11 +27,10 @@ Data Analysis.ipynb
 
 1. Describes the dataset statistically (count, mean, std, min, max, etc.).
 2. Creates various bar plots and count plots using Seaborn and Matplotlib for:
-
-  A. Gender analysis in sales data.
-  B. Analysis by age group and gender.
-  C. Sales by state, occupation, product category, and product ID.
-  D. Top 5 most sold products.
+- Gender analysis in sales data.
+- Analysis by age group and gender.
+- ales by state, occupation, product category, and product ID.
+- Top 5 most sold products.
 
 ## Conclusion:
 
